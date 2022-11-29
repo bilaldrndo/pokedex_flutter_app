@@ -41,6 +41,7 @@ class MyApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         theme: ThemeData(fontFamily: 'NunitoSans'),
         home: const MainTabBarScreen(),
       ),
