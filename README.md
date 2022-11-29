@@ -9,7 +9,8 @@ On the most basic level, it uses Provider for State management, Hive to Store da
 | Splash Screen | Home Screen |
 |------|-------|
 |<img src="screenshots/1.png" width="400">|<img src="screenshots/2.png" width="400">|
-| <center>Details Screen</center> | <center>Favourites Screen</center> |
+| <center>**Details Screen** | <center>**Favourites Screen** |
+|------|-------|
 |<img src="screenshots/3.png" width="400">|<img src="screenshots/4.png" width="400">|
 
 
