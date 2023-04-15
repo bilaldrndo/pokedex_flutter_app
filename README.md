@@ -17,8 +17,8 @@ On the most basic level, it uses Provider for State management, Hive to Store da
 - Download the source code 
 - Make sure that your `flutter --version` is up to date as well as running on `stable` channel
 - Open an Android and/or iOS simulator or connect a  real device to Your computer
-- Go int to the root directory of the project and run `flutter pub get`
-- After that, run `flutter run` and enyoj the app
+- Open the root directory of the project and run `flutter pub get`
+- After that, run `flutter run` and enjoy the app
 
 ### Used Packages 
 - **[flutter_native_splash]** - Used to create a Native Splash Screen for both Android ans iOS Devices
